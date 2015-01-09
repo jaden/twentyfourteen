@@ -12,4 +12,4 @@ features = ["blog", ]
 [original]
     author =  "wordpressdotorg"
     homepage = "https://wordpress.org/themes/twentyfourteen"
-    repo = "https://themes.trac.wordpress.org/browser/twentyfourteen/1.2"
+    repo = "https://themes.trac.wordpress.org/browser/twentyfourteen/1.3"

@@ -21,7 +21,7 @@ Put pages in the top navigation bar by adding `menu=main` in the page's front ma
 ## Author
 **wordpressdotorg**
 - <https://wordpress.org/themes/twentyfourteen>
-- <https://themes.trac.wordpress.org/browser/twentyfourteen/1.2>
+- <https://themes.trac.wordpress.org/browser/twentyfourteen/1.3>
 
 ## Ported By
 **Dan Hersam**
