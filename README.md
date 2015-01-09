@@ -19,8 +19,9 @@ Example:
 Put pages in the top navigation bar by adding `menu=main` in the page's front matter.
 
 ## Author
-**Mark Otto**
-- <https://github.com/mdo>
+**wordpressdotorg**
+- <https://wordpress.org/themes/twentyfourteen>
+- <https://themes.trac.wordpress.org/browser/twentyfourteen/1.2>
 
 ## Ported By
 **Dan Hersam**
