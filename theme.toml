@@ -4,6 +4,7 @@ licenselink = "http://www.gnu.org/licenses/gpl-2.0.html"
 description = "A responsive magazine website with a sleek, modern design."
 tags = ["blog", "wordpress"]
 features = ["blog", ]
+min_version = 0.14
 
 [author]
     name = "Dan Hersam"
