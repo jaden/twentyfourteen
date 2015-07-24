@@ -3,7 +3,7 @@
 	<h1 class="widget-title">Categories</h1>
 
 	<ul>
-		{{ $baseurl := .Site.BaseUrl }}
+		{{ $baseurl := .Site.BaseURL }}
 		{{ range $key, $value := .Site.Taxonomies.categories }}
 		
 		<li class="cat-item">
