@@ -3112,15 +3112,6 @@ a.post-thumbnail:hover {
 		padding: 12px 0 9px;
 	}
 
-	.list-view .site-content .cat-links,
-	.list-view .site-content .type-post .entry-content,
-	.list-view .site-content .type-page .entry-content,
-	.list-view .site-content .type-post .entry-summary,
-	.list-view .site-content .type-page .entry-summary,
-	.list-view .site-content footer.entry-meta {
-		display: none;
-	}
-
 	.list-view .site-content .entry-title {
 		clear: none;
 		font-size: 15px;
