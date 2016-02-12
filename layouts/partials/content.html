@@ -15,6 +15,7 @@
 
 		<h1 class="entry-title">{{ .Title }}</h1>
 
+                {{ if not .Date.IsZero }}
 		<div class="entry-meta">
 			<span class="entry-date">
 				<a href="{{ .Permalink }}/index.html" rel="bookmark">
@@ -24,6 +25,7 @@
 				</a>
 			</span>
 		</div><!-- .entry-meta -->
+		{{ end }}
 
 	</header>
 	
