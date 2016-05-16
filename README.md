@@ -1,6 +1,6 @@
 # Twenty Fourteen
 
-Twenty Fourteen is a responsive, two-column [hugo](http://hugo.spf13.com) theme based on the [Wordpress theme](https://wordpress.org/themes/twentyfourteen) of the same name.
+Twenty Fourteen is a responsive, two-column [hugo](http://hugo.spf13.com) theme based on the [WordPress theme](https://wordpress.org/themes/twentyfourteen) of the same name.
 
 It features a dark color scheme and a left sidebar.
 
