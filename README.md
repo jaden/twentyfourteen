@@ -26,7 +26,7 @@ Put pages in the top navigation bar by adding `menu=main` in the page's front ma
 ## Ported By
 **Dan Hersam**
 - <https://github.com/jaden>
-- <http://dan.hersam.com>
+- <https://dan.hersam.com>
 
 ## License
 
