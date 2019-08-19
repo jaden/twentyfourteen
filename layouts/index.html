@@ -5,10 +5,10 @@
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
 
-			{{ range first 10 (where .Data.Pages "Section" "post") }}
+			{{ range first 10 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
 				{{ partial "content.html" . }}
 			{{ end }}
-		
+
 		</div><!-- #content -->
 	</div><!-- #primary -->
 	{{ partial "sidebar.html" . }}

@@ -9,10 +9,10 @@
 				<h1 class="archive-title">{{ .Title }} Archive</h1>
 			</header>
 
-			{{ range where .Data.Pages "Section" "post" }}
+			{{ range where site.RegularPages "Type" "in" site.Params.mainSections }}
 				{{ partial "content.html" . }}
 			{{ end }}
-		
+
 		</div><!-- #content -->
 	</div><!-- #primary -->
 	{{ partial "sidebar.html" . }}
